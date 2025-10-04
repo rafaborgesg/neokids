@@ -1,0 +1,36 @@
+User's active file:
+public/robots.txt
+
+User's request:
+Generate the contents of the file: /neokids2/neokids2/public/robots.txt
+
+User's project tree structure:
+neokids2
+├── index.html
+├── package.json
+├── tsconfig.json
+├── vite.config.ts
+├── vercel.json
+├── .gitignore
+├── README.md
+├── public
+│   └── robots.txt
+└── src
+    ├── main.tsx
+    ├── App.tsx
+    ├── pages
+    │   └── Home.tsx
+    ├── components
+    │   └── Header.tsx
+    ├── styles
+    │   └── global.css
+    ├── assets
+    ├── hooks
+    │   └── useWindowSize.ts
+    └── types
+        └── index.d.ts
+
+Content for public/robots.txt:
+User-agent: *
+Disallow: /api/
+Allow: /
