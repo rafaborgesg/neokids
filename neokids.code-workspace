@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../../neokids/neokids"
+		},
+		{
+			"name": "neokids",
+			"path": "../Neokids/neokids/neokids"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
